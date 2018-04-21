@@ -1,0 +1,7 @@
+D:\Документы\Университет\4 семестр\ОЗИ\Encoder to Сaesar cipher\Encoder to Сaesar cipher\bin\Debug\Encoder to Сaesar cipher.exe.config
+D:\Документы\Университет\4 семестр\ОЗИ\Encoder to Сaesar cipher\Encoder to Сaesar cipher\bin\Debug\Encoder to Сaesar cipher.exe
+D:\Документы\Университет\4 семестр\ОЗИ\Encoder to Сaesar cipher\Encoder to Сaesar cipher\bin\Debug\Encoder to Сaesar cipher.pdb
+D:\Документы\Университет\4 семестр\ОЗИ\Encoder to Сaesar cipher\Encoder to Сaesar cipher\obj\Debug\Encoder to Сaesar cipher.csprojResolveAssemblyReference.cache
+D:\Документы\Университет\4 семестр\ОЗИ\Encoder to Сaesar cipher\Encoder to Сaesar cipher\obj\Debug\Encoder to Сaesar cipher.csproj.CoreCompileInputs.cache
+D:\Документы\Университет\4 семестр\ОЗИ\Encoder to Сaesar cipher\Encoder to Сaesar cipher\obj\Debug\Encoder to Сaesar cipher.exe
+D:\Документы\Университет\4 семестр\ОЗИ\Encoder to Сaesar cipher\Encoder to Сaesar cipher\obj\Debug\Encoder to Сaesar cipher.pdb
